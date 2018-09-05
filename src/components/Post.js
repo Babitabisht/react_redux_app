@@ -32,7 +32,7 @@ class Post extends Component {
       <div>
         <h1>Post</h1>
         <div>
-       hello
+       
         
         {postItems}
 
